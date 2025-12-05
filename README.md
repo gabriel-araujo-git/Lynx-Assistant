@@ -8,7 +8,7 @@
 <h1 align="center">Lynx Assistant</h1>
 
 <p align="center">
-  <b>O poder dos comandos rápidos — na ponta dos seus dedos.</b><br/>
+  <b>O poder dos comandos rápidos na ponta dos seus dedos.</b><br/>
   Um assistente desktop inteligente para abrir programas, sites e ambientes com naturalidade.
 </p>
 
